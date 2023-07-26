@@ -1,0 +1,17 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1690287671606,284,User Login,200,OK,Thread Group 1-1,text,true,,592,311,1,1,https://dmoney.roadtocareer.net/user/login,284,0,259
+1690287671917,33,Create new user,201,Created,Thread Group 1-1,text,true,,615,617,1,1,https://dmoney.roadtocareer.net/user/create,33,0,0
+1690287671953,15,search user,200,OK,Thread Group 1-1,text,true,,615,422,1,1,https://dmoney.roadtocareer.net/user/search/id/22141,15,0,0
+1690287671969,15,delete user,200,OK,Thread Group 1-1,text,true,,375,441,1,1,https://dmoney.roadtocareer.net/user/delete/22141,15,0,0
+1690287671985,16,User Login,200,OK,Thread Group 1-1,text,true,,591,499,1,1,https://dmoney.roadtocareer.net/user/login,16,0,0
+1690287672001,334,Create new user,201,Created,Thread Group 1-1,text,true,,615,617,1,1,https://dmoney.roadtocareer.net/user/create,334,0,0
+1690287672337,15,search user,200,OK,Thread Group 1-1,text,true,,615,422,1,1,https://dmoney.roadtocareer.net/user/search/id/22142,15,0,0
+1690287672353,15,delete user,200,OK,Thread Group 1-1,text,true,,375,441,1,1,https://dmoney.roadtocareer.net/user/delete/22142,15,0,0
+1690287672369,17,User Login,200,OK,Thread Group 1-1,text,true,,591,499,1,1,https://dmoney.roadtocareer.net/user/login,17,0,0
+1690287672387,30,Create new user,201,Created,Thread Group 1-1,text,true,,612,614,1,1,https://dmoney.roadtocareer.net/user/create,30,0,0
+1690287672418,14,search user,200,OK,Thread Group 1-1,text,true,,612,422,1,1,https://dmoney.roadtocareer.net/user/search/id/22143,14,0,0
+1690287672433,16,delete user,200,OK,Thread Group 1-1,text,true,,375,441,1,1,https://dmoney.roadtocareer.net/user/delete/22143,16,0,0
+1690287672449,16,User Login,200,OK,Thread Group 1-1,text,true,,591,499,1,1,https://dmoney.roadtocareer.net/user/login,15,0,0
+1690287672465,29,Create new user,201,Created,Thread Group 1-1,text,true,,615,617,1,1,https://dmoney.roadtocareer.net/user/create,29,0,0
+1690287672494,16,search user,200,OK,Thread Group 1-1,text,true,,615,422,1,1,https://dmoney.roadtocareer.net/user/search/id/22144,16,0,0
+1690287672511,15,delete user,200,OK,Thread Group 1-1,text,true,,375,441,1,1,https://dmoney.roadtocareer.net/user/delete/22144,15,0,0
